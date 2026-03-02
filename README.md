@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Dipak K Suryawanshi – Java Full Stack Developer<br>Backend: Core Java, Advanced Java, OOPs, Collections, JDBC, Servlets, JSP, Spring Boot<br>Database: MySQL<br>Frontend: React, JavaScript, HTML, CSS, Bootstrap
+I am Dipak Suryawanshi – Java Full Stack Developer<br>Backend: Core Java, Advanced Java, OOPs, Collections, JDBC, Servlets, JSP, Spring Boot<br>Database: MySQL<br>Frontend: React, JavaScript, HTML, CSS, Bootstrap
 
 
 ## 🌐 Socials:
